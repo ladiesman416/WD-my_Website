@@ -42,23 +42,22 @@ section {
 }
 
 h2 {
-    border-bottom: 2px solid #3d6a3e; /* Green underline */
-    padding-bottom: 5px; /* Space below the heading */
-}
+    border-bottom: 2px solid #3d6a3e; 
+    padding-bottom: 5px;
 
 h3 {
-    margin-top: 5px; /* Space above the subheading */
+    margin-top: 5px;
 }
 
 .skills ul, .sub4 ul {
-    list-style-type:circle; /* Square bullets */
-    padding-left: 30px; /* Indent the list */
+    list-style-type:circle; 
+    padding-left: 30px;
 }
 
 footer .footer div {
-    margin: 5px 0; /* Space between footer items */
+    margin: 5px 0; 
 }
 
 footer a {
-    color: rgb(17, 33, 202); /* White links */
+    color: rgb(17, 33, 202);
 }
