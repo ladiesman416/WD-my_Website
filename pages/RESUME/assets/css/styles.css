@@ -43,41 +43,32 @@ section {
 
 h2 {
     border-bottom: 2px solid #3d6a3e; 
-<<<<<<< HEAD
     padding-bottom: 5px;
 
 h3 {
     margin-top: 5px;
-=======
     padding-bottom: 5px; 
 }
 
 h3 {
     margin-top: 5px; 
->>>>>>> 857847636f4d0f775435aa6d22d11d438ff3830d
 }
 
 .skills ul, .sub4 ul {
     list-style-type:circle; 
-<<<<<<< HEAD
     padding-left: 30px;
-=======
+
     padding-left: 30px; 
->>>>>>> 857847636f4d0f775435aa6d22d11d438ff3830d
 }
 
 footer .footer div {
     margin: 5px 0; 
-<<<<<<< HEAD
 }
 
 footer a {
     color: rgb(17, 33, 202);
 }
-=======
-
 
 footer a {
     color: rgb(17, 33, 202); 
 }
->>>>>>> 857847636f4d0f775435aa6d22d11d438ff3830d
