@@ -57,11 +57,12 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
+Project: Personal Resume Website.
 
-
-Project: Personal Resume Website
 Purpose: Showcases skills, education, and projects in a digital format.
+
 Key Components: Header, Skills, Soft Skills, Projects, Education, Footer.
+
 Technology Used: HTML for structure, CSS for styling, and external stylesheet.
 
 ### Key Components
